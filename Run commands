@@ -1,0 +1,7 @@
+Run These comands
+
+
+cd Desktop/Object_Detection_Files 
+python3 object-ident.py
+
+
